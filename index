@@ -16,7 +16,7 @@
        
           var map = L.map('map', {
               center: [41.9788624,-87.7196116],
-              zoom: 10
+              zoom: 20
           });
           L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
                attribution: '© OpenStreetMap',
