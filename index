@@ -68,11 +68,11 @@
            
             
 
-          var pic01 = '<img src="https://github.com/calabashhh/MidtermPractical/main/BBH.jpg?raw=true" alt="BBH" width="618">';
-          var pic02 = '<img src="https://github.com/calabashhh/MidtermPracticalb/main/groundskeeping.jpg?raw=true" alt="our-university-locations" width="450">';
-            var pic03 = '<img src="https://github.com/calabashhh/MidtermPractical/main/gym.jpg?raw=true" alt="campus-recreation" width="720">';
-            var pic04 = '<img src="https://github.com/calabashhh/MidtermPracticalb/main/library.JPG?raw=true" alt=neiu-libraries" width="890">';
-            var pic05 = '<img src="https://github.com/calabashhh/MidtermPractical/main/studentunion.jpg?raw=true" alt="student-union" width="890">';
+          var pic01 = '<img src="https://github.com/calabashhh/MidtermPractical/BBH.jpg?raw=true" alt="BBH" width="618">';
+          var pic02 = '<img src="https://github.com/calabashhh/MidtermPracticalb/groundskeeping.jpg?raw=true" alt="our-university-locations" width="450">';
+            var pic03 = '<img src="https://github.com/calabashhh/MidtermPractical/gym.jpg?raw=true" alt="campus-recreation" width="720">';
+            var pic04 = '<img src="https://github.com/calabashhh/MidtermPracticalb/library.JPG?raw=true" alt=neiu-libraries" width="890">';
+            var pic05 = '<img src="https://github.com/calabashhh/MidtermPractical/studentunion.jpg?raw=true" alt="student-union" width="890">';
             
             
           
