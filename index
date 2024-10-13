@@ -18,7 +18,7 @@
               center: [41.9788624,-87.7196116],
               zoom: 20
           });
-          L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
+          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                attribution: '© OpenStreetMap',
                maxZoom: 20,
                minZoom: 4
