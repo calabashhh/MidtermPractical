@@ -68,17 +68,17 @@
            
             
 
-          var pic01 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/BBH.jpg?raw=true" alt="https://www.neiu.edu/university-life/student-union" width="300">';
-          var pic02 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/groundskeeping.jpg?raw=true" alt="https://www.neiu.edu/about/our-university-locations" width="300">';
-            var pic03 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/gym.jpg?raw=true" alt="https://www.neiu.edu/university-life/campus-recreation" width="300">';
-            var pic04 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/library.JPG?raw=true" alt="https://www.neiu.edu/neiu-libraries" width="300">';
-            var pic05 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/studentunion.jpg?raw=true" alt="https://www.neiu.edu/university-life/student-union" width="300">';
+          var pic01 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/BBH.jpg?raw=true" alt="https://www.neiu.edu/university-life/student-union" width="200">';
+          var pic02 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/groundskeeping.jpg?raw=true" alt="https://www.neiu.edu/about/our-university-locations" width="200">';
+            var pic03 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/gym.jpg?raw=true" alt="https://www.neiu.edu/university-life/campus-recreation" width="200">';
+            var pic04 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/library.JPG?raw=true" alt="https://www.neiu.edu/neiu-libraries" width="200">';
+            var pic05 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/studentunion.jpg?raw=true" alt="https://www.neiu.edu/university-life/student-union" width="200">';
             
             
           
           marker01.bindPopup('<p style="color:blue; font-weight:bold"> BBH </p>' + pic01);
           marker02.bindPopup('<p style="color:gold; font-weight:bold"> Groundskeeping</p>' + pic02);
-            marker03.bindPopup('<p style="color:blue; font-weight:bold">NEIU Campus Physical Education Building</p>' + pic03);
+            marker03.bindPopup('<p style="color:blue; font-weight:bold">Physical Education Building</p>' + pic03);
             marker04.bindPopup('<p style="color:gold; font-weight:bold">Ronald Williams Library</p>' + pic04);
             marker05.bindPopup('<p style="color:blue; font-weight:bold">NEIU Student Union</p>' + pic05);
            
