@@ -10,7 +10,7 @@
            crossorigin=""></script>
     </head>
     <body>
-        <div id="map" style="height: 900px"></div>
+        <div id="map" style="height: 500px"></div>
 
         <script type="text/javascript">
        
@@ -68,11 +68,11 @@
            
             
 
-          var pic01 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/BBH.jpg?raw=true" alt="https://www.neiu.edu/university-life/student-union" width="200">';
-          var pic02 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/groundskeeping.jpg?raw=true" alt="https://www.neiu.edu/about/our-university-locations" width="200">';
-            var pic03 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/gym.jpg?raw=true" alt="https://www.neiu.edu/university-life/campus-recreation" width="200">';
-            var pic04 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/library.JPG?raw=true" alt="https://www.neiu.edu/neiu-libraries" width="200">';
-            var pic05 = '<img src="https://github.com/calabashhh/MidtermPractical/blob/main/studentunion.jpg?raw=true" alt="https://www.neiu.edu/university-life/student-union" width="200">';
+          var pic01 = '<img src="https://github.com/calabashhh/MidtermPractical/main/BBH.jpg?raw=true" alt="student-union" width="200">';
+          var pic02 = '<img src="https://github.com/calabashhh/MidtermPracticalb/main/groundskeeping.jpg?raw=true" alt="our-university-locations" width="200">';
+            var pic03 = '<img src="https://github.com/calabashhh/MidtermPractical/main/gym.jpg?raw=true" alt="campus-recreation" width="200">';
+            var pic04 = '<img src="https://github.com/calabashhh/MidtermPracticalb/main/library.JPG?raw=true" alt=neiu-libraries" width="200">';
+            var pic05 = '<img src="https://github.com/calabashhh/MidtermPractical/main/studentunion.jpg?raw=true" alt="student-union" width="200">';
             
             
           
