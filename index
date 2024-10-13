@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Lab 2</title>
+        <title>Midterm Practical</title>
          <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
            integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
            crossorigin=""/>
@@ -26,35 +26,35 @@
 
            var BBH = L.icon({
               iconUrl: 'BBH.png', // url that links to the icon image file, saved in the same folder as the current page 
-              iconSize:     [512, 512], // size of the icon image in pixels
+              iconSize:     [32, 32], // size of the icon image in pixels
               iconAnchor:   [19, 19], // the top left corner of the icon will be aligned so that this point is at the marker's geographical location
               popupAnchor:  [0, -10] // point from which the popup should open, relative to the iconAnchor
           });
 
             var groundskeeping = L.icon({
               iconUrl: 'groundskeeping.png', // url that links to the icon image file, saved in the same folder as the current page 
-              iconSize:     [512, 512], // size of the icon image in pixels
+              iconSize:     [32, 32], // size of the icon image in pixels
               iconAnchor:   [19, 19], // the top left corner of the icon will be aligned so that this point is at the marker's geographical location
               popupAnchor:  [0, -10] // point from which the popup should open, relative to the iconAnchor
           });
 
             var gym = L.icon({
               iconUrl: 'gym.png', // url that links to the icon image file, saved in the same folder as the current page 
-              iconSize:     [512, 512], // size of the icon image in pixels
+              iconSize:     [32, 32], // size of the icon image in pixels
               iconAnchor:   [19, 19], // the top left corner of the icon will be aligned so that this point is at the marker's geographical location
               popupAnchor:  [0, -10] // point from which the popup should open, relative to the iconAnchor
           });
 
             var library = L.icon({
               iconUrl: 'library.png', // url that links to the icon image file, saved in the same folder as the current page 
-              iconSize:     [512, 512], // size of the icon image in pixels
+              iconSize:     [32, 32], // size of the icon image in pixels
               iconAnchor:   [19, 19], // the top left corner of the icon will be aligned so that this point is at the marker's geographical location
               popupAnchor:  [0, -10] // point from which the popup should open, relative to the iconAnchor
           });
 
             var studentunion = L.icon({
               iconUrl: 'studentunion.png', // url that links to the icon image file, saved in the same folder as the current page 
-              iconSize:     [512, 512], // size of the icon image in pixels
+              iconSize:     [32, 32], // size of the icon image in pixels
               iconAnchor:   [19, 19], // the top left corner of the icon will be aligned so that this point is at the marker's geographical location
               popupAnchor:  [0, -10] // point from which the popup should open, relative to the iconAnchor
           });
