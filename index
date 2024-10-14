@@ -24,8 +24,8 @@
                minZoom: 4
           }).addTo(map);
 
-           var BBH = L.icon({
-              iconUrl: 'BBH.png', // url that links to the icon image file, saved in the same folder as the current page 
+           var bbh = L.icon({
+              iconUrl: 'bbh.png', // url that links to the icon image file, saved in the same folder as the current page 
               iconSize:     [32, 32], // size of the icon image in pixels
               iconAnchor:   [19, 19], // the top left corner of the icon will be aligned so that this point is at the marker's geographical location
               popupAnchor:  [0, -10] // point from which the popup should open, relative to the iconAnchor
@@ -60,7 +60,7 @@
           });
 
         
-          var marker01 = L.marker([41.9803405,-87.7170971], {icon: BBH}).addTo(map);
+          var marker01 = L.marker([41.9803405,-87.7170971], {icon: bbh}).addTo(map);
           var marker02 = L.marker([41.9783564,-87.7194901], {icon: groundskeeping}).addTo(map); 
             var marker03 = L.marker([41.9778567,-87.7173823], {icon: gym}).addTo(map);
             var marker04 = L.marker([41.9803337,-87.7191926], {icon: library}).addTo(map);
